@@ -1,6 +1,6 @@
 # CCT Workspace
 
-CCT Workspace is a platform for Cyber Crime Teams (hence CCT) to bundle tools in PHP. Development is done on the Laravel-framework combined with Docker.  
+CCT Workspace is a platform for Cyber Crime Teams (hence CCT) to bundle tools in PHP. Development is done on the Laravel-framework combined with Docker. All data is stored locally on your device! 
 
 ## Official Documentation
 
@@ -34,7 +34,7 @@ After that:
 
 ```
 docker-compose exec app php artisan key:generate #when using windows you might need to use winpty in front of this phrase
-docker-compose exec app php artisan optimize #when using windows put winpty in front of this phrase
+docker-compose exec app php artisan optimize
 ```
 
 
