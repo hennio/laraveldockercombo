@@ -6,6 +6,12 @@ CCT Workspace is a platform for Cyber Crime Teams (hence CCT) to bundle tools in
 
 Documentation will follow below.
 
+### Installation
+To be done
+
+### Integrated tools
+To be done
+
 ## Thanks
 
 Dockerintegration done with this [tutorial](https://medium.com/@shakyShane/laravel-docker-part-1-setup-for-development-e3daaefaf3c) by Shaky Shane.
