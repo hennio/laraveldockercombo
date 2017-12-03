@@ -7,7 +7,11 @@ CCT Workspace is a platform for Cyber Crime Teams (hence CCT) to bundle tools in
 Documentation will follow below.
 
 ### Installation
-To be done
+Make sure you have installed Docker!
+
+After pull execute code below in working directory: 
+
+    docker run --rm -v $(pwd):/app composer/composer  
 
 ### Integrated tools
 To be done
