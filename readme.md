@@ -1,6 +1,6 @@
-# CCT Workspace
+# Laravel docker combo
 
-CCT Workspace is a platform for Cyber Crime Teams (hence CCT) to bundle tools in PHP. Development is done on the Laravel-framework combined with Docker. All data is stored locally on your device! 
+Development is done on the Laravel-framework combined with Docker. All data is stored locally on your device! 
 
 ## Official Documentation
 
@@ -15,7 +15,7 @@ After pull execute code below in working directory:
 
 Or in Windows:
 
-    docker run --rm -v "c:/fullPath/cctworkspace":/app composer/composer install
+    docker run --rm -v "c:/fullPath/laraveldockercombo":/app composer/composer install
 
 Start the application:
 
@@ -39,7 +39,7 @@ docker-compose exec app php artisan optimize
 
 
 
-Visit the toolbox with your browser:
+Visit the combo with your browser:
 
 	0.0.0.0:8080
 
